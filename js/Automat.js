@@ -1,0 +1,7 @@
+class skladniki
+{
+nazwa
+}
+
+
+
